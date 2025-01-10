@@ -1,3 +1,4 @@
+# Guid
 ***What are these tasks about?**  Writing Test Scenarios for the samin System and Performing Assigned Tasks Regarding Testing the Registration and Login Pages
 
 # About first Task
@@ -25,11 +26,9 @@ project-root
 ├── **first task**  
 │   ├── Readme.md    
 │       └── **Alternative**  (subdirectory of first task)</br>
-│       ├── file3.txt  
-│       └── file4.txt  
+│       ├── scenario.pdf  
 │   └── **Main** (subdirectory of first task) </br> 
-│       ├── file3.txt  
-│       └── file4.txt  
+│       ├── scenario.pdf   
 ├── **second task**  
 │   ├── file5.txt  
 │   └── file6.txt  
