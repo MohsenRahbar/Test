@@ -1,4 +1,4 @@
-# Guid
+# Guide
 ***What are these tasks about?**  Writing Test Scenarios for the samin System and Performing Assigned Tasks Regarding Testing the Registration and Login Pages
 
 # About first Task
